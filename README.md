@@ -5,7 +5,7 @@
 
 •Absolutely will, more often than you think.
 
-Binds: 
+# Binds: 
 x: dt
 h: hs
 m3 : mindmg
@@ -13,6 +13,7 @@ v : thirdperson
 m4 : autopeek
 c : fakeduck
 shift : slowwalk
+# Notice!
 
 Aid$ isn't really made for aggresive playstyle but go ballistic with it.
 
