@@ -12,6 +12,6 @@ shift : slowwalk
 
 Aid$ isn't really made for aggresive playstyle but go ballistic with it.
 
-Purposely made for HvH only. i am not responsible for any unwanted VAC Bans that might occur while playing with my configuration. 
+Purposely made for HvH only. i am not responsible for any unwanted VAC Bans that might occur on your account while playing with my configuration. 
 
 Get good, Get medusa.
