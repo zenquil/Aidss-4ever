@@ -1,7 +1,7 @@
 # What's aid$? 
 •Maybe not the best config but its aesthetics are incredibly unique for many people that can't afford primordial.
 
-Is it gonna be updated?
+# Is it gonna be updated?
 
 •Absolutely will, more often than you think.
 
