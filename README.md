@@ -1,5 +1,5 @@
 # What's aid$? 
-•Maybe not the best config but its aesthetics are unique for many people that can't afford primordial.
+•Maybe not the best config but its aesthetics are incredibly unique for many people that can't afford primordial.
 
 Is it gonna be updated?
 
